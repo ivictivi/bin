@@ -1,2 +1,2 @@
-#################
-Scripts básicos de testeo!
+# bin
+scripts
